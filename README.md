@@ -20,7 +20,7 @@
 > These stats update automatically as I solve more problems on LeetCode.
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Luiz Filipe B Miranda?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/JNloY3DjFx?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 ---
