@@ -4,8 +4,8 @@
   
   ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
   ![Language](https://img.shields.io/badge/Language-Python%20%7C%20Java%20%7C%20C++-3178C6?style=for-the-badge&logo=python&logoColor=white)
-  ![Repo Size](https://img.shields.io/github/repo-size/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME?style=for-the-badge&color=green)
-  ![Last Commit](https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME?style=for-the-badge&color=red)
+  ![Repo Size](https://img.shields.io/github/repo-size/Luizfbm/Leetcode-solutions?style=for-the-badge&color=green)
+  ![Last Commit](https://img.shields.io/github/last-commit/Luizfbm/Leetcode-solutions?style=for-the-badge&color=red)
 
   <br>
   
