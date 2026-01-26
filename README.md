@@ -32,10 +32,7 @@ The solutions are organized by topic or difficulty to make navigation easier.
 
 ```text
 📦 LeetCode-Solutions
- ┣ 📂 Algorithms
- ┃ ┣ 📂 Easy
- ┃ ┣ 📂 Medium
- ┃ ┗ 📂 Hard
- ┣ 📂 Database
- ┣ 📂 Shell
+ ┣ 📂 Easy
+ ┣ 📂 Medium
+ ┣ 📂 Hard
  ┗ 📜 README.md
