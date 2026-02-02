@@ -11,7 +11,7 @@
 <strong>Explanation:</strong> 9 exists in nums and its index is 4
 </pre>
 
-<p><strong class="example">Example 2 Excuse-me:</strong></p>
+<p><strong class="example">Example 2:</strong></p>
 
 <pre>
 <strong>Input:</strong> nums = [-1,0,3,5,9,12], target = 2
